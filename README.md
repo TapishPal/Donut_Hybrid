@@ -16,8 +16,6 @@ This hybrid architecture provides powerful information extraction from invoices,
 
 ## ⚙️ Setup Instructions
 
-After cloning, or downloading zip from the repo, open the folder in VS code (or any editor). You also need to have Anaconda Navigator, since used conda command to create the environment with python 3.10 version.
-
 ### 1️⃣ Create a Conda Environment (Python 3.10)
 
 ```bash
