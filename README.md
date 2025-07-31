@@ -16,6 +16,8 @@ This hybrid architecture provides powerful information extraction from invoices,
 
 ## ⚙️ Setup Instructions
 
+After cloning, or downloading zip from the repo, open the folder in VS code (or any editor). You also need to have Anaconda Navigator, since used conda command to create the environment with python 3.10 version.
+
 ### 1️⃣ Create a Conda Environment (Python 3.10)
 
 ```bash
@@ -40,7 +42,7 @@ uvicorn main:app --reload
 Go to:
 
 ```
-http://127.0.0.1:8000
+http://127.0.0.1:8000/docs
 ```
 
 You will see the FastAPI Swagger UI where you can test the API endpoints.
