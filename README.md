@@ -45,6 +45,21 @@ http://127.0.0.1:8000/docs
 
 You will see the FastAPI Swagger UI where you can test the API endpoints.
 
+### Run Streamlit for the interactive website
+
+Open another terminal: 
+
+Activate the environment:
+
+```bash
+conda activate invoice-env
+```
+Run the command:
+
+```bash
+streamlit run frontend/streamlit_app.py
+```
+
 ---
 
 ## 🧪 How to Use
