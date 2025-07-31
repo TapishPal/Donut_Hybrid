@@ -1,0 +1,24 @@
+# Virtual environments
+env/
+venv/
+invoice-ocr/
+
+# IDE files
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# OS files
+__MACOSX/
+*.DS_Store
+
+# Images / uploads
+*.jpg
+*.jpeg
+*.png
+*.gif
+
+# Environment variables
+.env
